@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhashikz
 - 👀 My hobbies are photography, reading, and programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning C++ and Python
 - 📫 Reach me on my email: bhashik.kamble96@gmail.com
 - ⚡ Fav Authors: Michael Crichton, Fyodor Dostoevsky, Arundhati Roy
 
